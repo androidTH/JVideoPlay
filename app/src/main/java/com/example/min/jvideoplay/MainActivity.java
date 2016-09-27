@@ -14,10 +14,6 @@ import com.example.min.jvideoplay.video.PlayVideoActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    //http://videos.xingliaoapp.com/videos/14690927432320.m3u8  http://videos.xingliaoapp.com/videos/14690927432320.mp4
-    //http://videos.xingliaoapp.com/videos/148201469432490.m3u8  http://videos.xingliaoapp.com/videos/148201469432490.mp4
-    //http://videos.xingliaoapp.com/videos/14694302458147.mp4
-    //http://videos.xingliaoapp.com/videos/146943061014995.mp4
     private Button mBtnCamera;
     private Button mBtnPlay;
     private Button mBtnAudio;
