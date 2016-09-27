@@ -1,0 +1,1 @@
+include ':app', ':ijkplaylib', ':ijklib', ':recodinglib', ":LibVideoEffects"

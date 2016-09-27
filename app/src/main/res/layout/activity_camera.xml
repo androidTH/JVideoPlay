@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:circle="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.min.jvideoplay.CameraActivity">
+    <com.example.min.jvideoplay.camera.CameraTextureView
+        android:id="@+id/gl_recorder_surface_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp">
+
+        <com.example.min.jvideoplay.view.CircleProgressBar
+            android:id="@+id/cpb_record_progress"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerInParent="true"
+            circle:background_color="@color/white"
+            circle:background_width="8dp"
+            circle:progress_color="@color/color_background_4"
+            circle:progress_width="5dp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_record_switch"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:clickable="true"
+        android:padding="8dp"
+        android:src="@mipmap/icon_recoding_switch"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/iv_record_close"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="10dp"
+        android:clickable="true"
+        android:padding="8dp"
+        android:src="@mipmap/icon_recoding_closed"
+        android:visibility="visible" />
+</RelativeLayout>
