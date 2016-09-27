@@ -3,11 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JVideoPlay.iml" filepath="$PROJECT_DIR$/JVideoPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVideoPlay.iml" filepath="$PROJECT_DIR$/JVideoPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibVideoEffects/LibVideoEffects.iml" filepath="$PROJECT_DIR$/LibVideoEffects/LibVideoEffects.iml" />
       <module fileurl="file://$PROJECT_DIR$/LibVideoEffects/LibVideoEffects.iml" filepath="$PROJECT_DIR$/LibVideoEffects/LibVideoEffects.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ijklib/ijklib.iml" filepath="$PROJECT_DIR$/ijklib/ijklib.iml" />
       <module fileurl="file://$PROJECT_DIR$/ijklib/ijklib.iml" filepath="$PROJECT_DIR$/ijklib/ijklib.iml" />
       <module fileurl="file://$PROJECT_DIR$/ijkplayer/ijkplayer.iml" filepath="$PROJECT_DIR$/ijkplayer/ijkplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ijkplaylib/ijkplaylib.iml" filepath="$PROJECT_DIR$/ijkplaylib/ijkplaylib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ijkplaylib/ijkplaylib.iml" filepath="$PROJECT_DIR$/ijkplaylib/ijkplaylib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recodinglib/recodinglib.iml" filepath="$PROJECT_DIR$/recodinglib/recodinglib.iml" />
       <module fileurl="file://$PROJECT_DIR$/recodinglib/recodinglib.iml" filepath="$PROJECT_DIR$/recodinglib/recodinglib.iml" />
     </modules>
   </component>
